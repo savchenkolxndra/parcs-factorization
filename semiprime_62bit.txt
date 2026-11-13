@@ -1,0 +1,3 @@
+# main measurement: two close primes ~2e9 (worst case for trial division)
+# 1999999973 * 2000012351
+4000024647999666523

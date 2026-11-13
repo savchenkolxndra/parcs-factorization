@@ -1,0 +1,3 @@
+# many small factors: the sequential version stops early, the parallel one scans up to sqrt(N)
+# 2^5 * 3^3 * 7^2 * 11 * 13 * 1000003 * 1000033
+6054265946327350752
